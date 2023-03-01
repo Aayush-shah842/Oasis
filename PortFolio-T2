@@ -23,7 +23,7 @@
   <body>
     <header class="header">
       <div class="wrapper">
-        <a href="#"><h1>Anushka</h1></a>
+        <a href="#"><h1>Aayush</h1></a>
         <nav class="menu">
           <ul>
             <li><a href="#home">Home</a></li>
@@ -39,9 +39,9 @@
       <section id="home" class="hero">
         <div class="container intro">
           <div class="intro-content">
-            <h1>Anushka Kapadnis</h1>
+            <h1>Aayush Shah</h1>
             <p>
-              Hi! My name is Anushka Kapadnis. I am a web developer, and I'm
+              Hi! My name is Aayush Shah. I am a web developer, and I'm
               here to introduce myself in my professional portfolio. I hope that
               you enjoy the work I've created.
             </p>
@@ -103,7 +103,7 @@
     <footer id="contact" class="contact">
       <section class="container detail">
         <h1>Feel free to get in touchâ€¦</h1>
-        <p class="email">Email: anushkakapadnis350@gmail.com</p>
+        <p class="email">Email: aayushshah842@gmail.com</p>
 
         <h1>Contact</h1>
 
@@ -137,10 +137,10 @@
         </div>
 
         <p class="links">
-          <a href="https://www.linkedin.com/in/anushka-kapadnis-1b0885246"
+          <a href="https://www.linkedin.com/in/aayush-shah-3b6a9223b"
             ><i class="fa-brands fa-linkedin"></i
           ></a>
-          <a href="https://github.com/Anushka-Kapadnis?tab=repositories"
+          <a href="https://github.com/Aayush-shah842/Oasis/blob/main/PortFolio-T2"
             ><i class="fa-brands fa-github"></i
           ></a>
         </p>
